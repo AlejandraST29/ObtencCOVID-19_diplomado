@@ -1,0 +1,85 @@
+  1. "SEXO"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        1
+	Largest value:         2
+	Sum:                   12,748
+	Mean:                  1.581
+	Median:                2
+	StDev:                 0.493
+	Most common values:    2 (4684x)
+	                       1 (3380x)
+
+  2. "ENTIDAD_RES"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        26
+	Largest value:         26
+	Sum:                   209,664
+	Mean:                  26
+	Median:                26
+	StDev:                 0
+	Most common values:    26 (8064x)
+
+  3. "FECHA_SINTOMAS"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         429
+	Smallest value:        2020-01-01
+	Largest value:         2021-04-15
+	Most common values:    2020-06-01 (84x)
+	                       2020-06-14 (80x)
+	                       2020-07-01 (77x)
+	                       2020-06-26 (75x)
+	                       2020-06-15 (74x)
+
+  4. "FECHA_DEF"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         434
+	Smallest value:        2020-01-03
+	Largest value:         2021-04-20
+	Most common values:    2020-06-23 (70x)
+	                       2020-07-09 (70x)
+	                       2020-06-24 (68x)
+	                       2020-07-10 (65x)
+	                       2020-06-28 (64x)
+
+  5. "EDAD"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         100
+	Smallest value:        0
+	Largest value:         110
+	Sum:                   525,481
+	Mean:                  65.164
+	Median:                66
+	StDev:                 14.781
+	Most common values:    70 (277x)
+	                       66 (235x)
+	                       63 (231x)
+	                       65 (226x)
+	                       68 (223x)
+
+  6. "DIABETES"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        1
+	Largest value:         2
+	Sum:                   12,928
+	Mean:                  1.603
+	Median:                2
+	StDev:                 0.489
+	Most common values:    2 (4864x)
+	                       1 (3200x)
+
+Row count: 8064
