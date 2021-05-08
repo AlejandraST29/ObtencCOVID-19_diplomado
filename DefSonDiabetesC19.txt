@@ -1,0 +1,78 @@
+  1. "SEXO"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        1
+	Largest value:         2
+	Sum:                   4,858
+	Mean:                  1.518
+	Median:                2
+	StDev:                 0.5
+	Most common values:    2 (1658x)
+	                       1 (1542x)
+
+  2. "ENTIDAD_RES"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1
+	Smallest value:        26
+	Largest value:         26
+	Sum:                   83,200
+	Mean:                  26
+	Median:                26
+	StDev:                 0
+	Most common values:    26 (3200x)
+
+  3. "FECHA_SINTOMAS"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         390
+	Smallest value:        2020-01-03
+	Largest value:         2021-04-13
+	Most common values:    2020-06-14 (35x)
+	                       2020-06-01 (32x)
+	                       2020-06-15 (32x)
+	                       2020-07-01 (31x)
+	                       2020-06-07 (28x)
+
+  4. "FECHA_DEF"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         395
+	Smallest value:        2020-01-08
+	Largest value:         2021-04-20
+	Most common values:    2020-06-23 (31x)
+	                       2020-07-01 (28x)
+	                       2020-07-09 (27x)
+	                       2020-07-11 (27x)
+	                       2020-06-10 (26x)
+
+  5. "EDAD"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         80
+	Smallest value:        0
+	Largest value:         97
+	Sum:                   210,954
+	Mean:                  65.923
+	Median:                67
+	StDev:                 12.576
+	Most common values:    70 (126x)
+	                       63 (106x)
+	                       67 (105x)
+	                       65 (104x)
+	                       64 (97x)
+
+  6. "DIABETES"
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         1
+	Most common values:    True (3200x)
+
+Row count: 3200
