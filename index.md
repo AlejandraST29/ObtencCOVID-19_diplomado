@@ -7,7 +7,7 @@ Se seleccionaron solo datos del estado de sonora
 ### Estadisticos de personas que tuvieron covid19
 
 
-```Con Hipertensión
+
 
 
 
