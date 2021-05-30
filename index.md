@@ -4,17 +4,15 @@ Este proyecto se baso en la base de datos de covid19 proporcionada en el curso d
 
 Se seleccionaron solo datos del estado de sonora
 
-### Estadisticos de personas que tuvieron covid19
+### Estadisticos de personas con Diabetes que padecierón covid19 y tuvieron fecha de defunción
 
 
 
-
-
-
-**Con Hipertensión**
 
 **Con Diabetes**
 
+Mis objetivos a largo plazo son comparar estos datos con otro padecimiento: Hipertensión
 
+y calcular la diferencia de días entre las fechas de sintomas y la fecha de defunción en cada caso 
 
 
